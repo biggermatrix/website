@@ -1,1 +1,1 @@
-Sitemap: https://biggermatrix.github.io/website/sitemap.xml
+Sitemap: https://www.biggermatrix.com/sitemap.xml
